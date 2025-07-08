@@ -1,1 +1,7 @@
-
+{
+  "folder": "Planet Fist",
+  "title": "Planet Fist",
+  "tags": ["Sci-Fi"],
+  "image": "/static/covers/planetfirst.png",
+  "description": "Set on the isolated planet of Sixaura, you are soldiers of one of the planet's three ruling empires..."
+}
